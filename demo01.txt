@@ -1,3 +1,10 @@
-hello git01
+<<<<<<< HEAD
+hello git02
 hello world
 hello Miss
+=======
+hello git02
+hello world
+hello Miss
+hello bird
+>>>>>>> dev
